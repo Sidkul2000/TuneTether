@@ -67,8 +67,9 @@ The significant improvement in both RMSE and MAE demonstrates the effectiveness 
 #### 1. Clone the Repository
 
 ⁠ bash
-git clone https://github.com/yourusername/MusicRecommendationSystem.git
-cd MusicRecommendationSystem
+git clone https://github.com/Sidkul2000/TuneTether.git
+
+cd TuneTether
  ⁠
 
 #### 2. Set Up Backend
